@@ -1,4 +1,4 @@
-# Algorithms on Eigenvalue Problems
+# Experiments on Eigenvalue Problems
 
 This repository contains implementations of several eigensolvers in MATLAB®:
 
